@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Category": "System Information",
+        "Description": "Switch the EnvyControl graphics mode from the panel",
+        "EnabledByDefault": true,
+        "Icon": "show-gpu-effects",
+        "Id": "org.personal.envycontrol",
+        "License": "GPL-2.0-or-later",
+        "Name": "EnvyControl",
+        "Version": "1.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
